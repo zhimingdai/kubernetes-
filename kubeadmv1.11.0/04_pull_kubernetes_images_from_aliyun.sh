@@ -9,7 +9,7 @@ set -e
 KUBE_VERSION=v1.11.0
 KUBE_PAUSE_VERSION=3.1
 ETCD_VERSION=v3.2.18
-CORE_DNS_VERSION=1.1.3
+CORE_DNS_VERSION=v1.1.3
 
 GCR_URL=k8s.gcr.io
 ALIYUN_URL=registry.cn-shanghai.aliyuncs.com/daizhiming
